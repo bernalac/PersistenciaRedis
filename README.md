@@ -36,7 +36,7 @@ En estas URLs podemos visualizar la creación en los 2 servidores de BD:
 
 Para usar una base de datos u otra, sólo basta con tocar el archivo Beans.xml ya que comentando los parámetros de la que no vayamos a usar, estaría en funcionamiento la otra.
 
-IMPORTANTE
+**IMPORTANTE**
 ````
 En el archivo Beans.xml hay que cambiar los nombres de las bases de datos por la que se esté utilizando
 ````
