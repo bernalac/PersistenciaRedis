@@ -35,6 +35,11 @@ En estas URLs podemos visualizar la creación en los 2 servidores de BD:
 * https://www.imaginanet.com/blog/primeros-pasos-con-sqlite3-comandos-basicos.html
 
 Para usar una base de datos u otra, sólo basta con tocar el archivo Beans.xml ya que comentando los parámetros de la que no vayamos a usar, estaría en funcionamiento la otra.
+
+IMPORTANTE
+````
+En el archivo Beans.xml hay que cambiar los nombres de las bases de datos por la que se esté utilizando
+````
 ## Ejecución
 
 Para ejecutar, nos vamos al raíz del proyecto maven y ejecutamos los comandos siguientes:
