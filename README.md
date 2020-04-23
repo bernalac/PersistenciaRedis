@@ -46,7 +46,7 @@ Para ejecutar, nos vamos al raíz del proyecto maven y ejecutamos los comandos s
 ```
 $  mvn compile
 $  mvn dependency:copy-dependencies package
-$  java -cp target/archivo.jar:target/dependency:. MainApp2
+$  java -cp target/archivo.jar:target/dependency/\*:. MainApp2
 ```
 
 ## Authors
